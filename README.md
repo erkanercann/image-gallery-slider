@@ -6,3 +6,8 @@ This JavaScript project features a responsive image gallery slider with a hover 
 
 1. Open the `index.html` file in a web browser.
 2. Observe the hover effect by moving the mouse over the images.
+
+
+
+https://github.com/erkanercann/image-gallery-slider/assets/126410424/5402d886-1625-4633-8948-820c7d4e5a03
+
